@@ -26,7 +26,6 @@ In this project, we aim to help Olist gain better insights into their e-commerce
 
 By answering these questions, we aim to help Olist managers and stakeholders understand the e-commerce landscape in Brazil and recommend opportunities to improve the company's performance. 
 
-<img align="center" alt="coding" width="2000" src="https://labsnews.com/en/wp-content/uploads/sites/6/2019/10/Olist-1280x720.jpg">
 
 By: Pratiksha_Shivsharne
 
