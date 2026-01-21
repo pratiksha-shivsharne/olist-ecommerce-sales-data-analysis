@@ -76,6 +76,7 @@ Olist Data Analysis.ipynb
 
 ## 📁 Project Structure
 
+```
 olist-ecommerce-sales-data-analysis/
 │
 ├── Olist Data Analysis.ipynb
@@ -83,8 +84,7 @@ olist-ecommerce-sales-data-analysis/
 ├── *.png
 ├── README.md
 └── venv/
-
-
+```
 
 ## Olist E-Commerce Sales Data Analysis ##
 Conducted exploratory data analysis on a real-world e-commerce dataset using Python. Cleaned and processed raw data, analyzed sales trends, customer behavior, and delivery performance, and created visualizations to extract actionable business insights.
