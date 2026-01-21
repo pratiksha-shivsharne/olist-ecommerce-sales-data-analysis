@@ -62,17 +62,23 @@ This project includes:
 - Explored repeat customer behavior
 - Highlighted key sales trends and seasonal patterns
 
-## How to Run This Project
+## 🚀 How to Run This Project
 
 ### Option 1: Run Locally
+
+```bash
 git clone https://github.com/pratiksha-shivsharne/olist-ecommerce-sales-data-analysis.git
 cd olist-ecommerce-sales-data-analysis
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
+```
 
+Then open:
 
-## Then open: ##
+```
 Olist Data Analysis.ipynb
+```
+
 
 ## 📁 Project Structure
 
