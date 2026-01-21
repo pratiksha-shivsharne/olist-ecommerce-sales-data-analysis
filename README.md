@@ -53,6 +53,7 @@ This project includes:
 - Distribution plots
 - Correlation heatmaps
 - Category-wise performance charts
+  
 
   ## Business Insights ##
 - dentified high-revenue product categories
@@ -64,16 +65,17 @@ This project includes:
 ## How to Run This Project
 
 ### Option 1: Run Locally
-git clone https://github.com/your-username/olist-ecommerce-sales-data-analysis.git
+git clone https://github.com/pratiksha-shivsharne/olist-ecommerce-sales-data-analysis.git
 cd olist-ecommerce-sales-data-analysis
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
+
 
 ## Then open: ##
 Olist Data Analysis.ipynb
 
 ## Project Structure ##
-## olist-ecommerce-sales-data-analysis/ ##
+olist-ecommerce-sales-data-analysis/
 │
 ├── Olist Data Analysis.ipynb
 ├── *.csv
